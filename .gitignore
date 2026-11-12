@@ -1,0 +1,18 @@
+# Game data and generated outputs must never be committed
+*.assets
+*.bin
+*.ttf
+*.otf
+*.dat
+*.bundle
+level*
+patched/
+out/
+chunks/
+libs/
+model/
+*.tree.json
+*.nodes.json
+__pycache__/
+*.pyc
+*.original
